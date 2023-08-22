@@ -1,0 +1,8 @@
+raw_reads
+busco
+busco_downloads
+flye_assembly
+polished_assembly
+trimmed_reads
+align_reads
+.snakemake
